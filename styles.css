@@ -92,7 +92,6 @@ itu adalah <h1> pada recipe-header, <h3> pada preparation, dst.
 Coba un-comment codingan background-color: red.
 */
 .text-section > div > :nth-child(1) {
-	background-color: red;
 	margin-bottom: 0.5em;
 }
 /* Text Section */
